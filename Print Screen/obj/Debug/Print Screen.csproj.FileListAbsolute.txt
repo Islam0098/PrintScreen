@@ -1,0 +1,8 @@
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\bin\Debug\Print Screen.exe.config
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\bin\Debug\Print Screen.exe
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\bin\Debug\Print Screen.pdb
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\obj\Debug\Print_Screen.Form1.resources
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\obj\Debug\Print_Screen.Properties.Resources.resources
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\obj\Debug\Print Screen.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\obj\Debug\Print Screen.exe
+C:\Users\dell\Desktop\Forms_Projects\Print Screen\Print Screen\obj\Debug\Print Screen.pdb
